@@ -1,0 +1,1 @@
+from automobile.models import car

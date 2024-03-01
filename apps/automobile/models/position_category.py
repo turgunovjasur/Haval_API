@@ -3,7 +3,7 @@ from shared.django.model import BaseModel
 from django.db.models import Min
 
 # Project
-from automobile.models import Car
+from .car import Car
 
 
 class PositionCategory(BaseModel):

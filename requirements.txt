@@ -1,1 +1,5 @@
 Django~=4.2.10
+shared~=0.0.29
+pillow~=10.2.0
+djangorestframework~=3.14.0
+django-filter~=23.5
